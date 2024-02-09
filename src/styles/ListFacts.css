@@ -1,0 +1,27 @@
+
+.list-full--wrapper{
+    padding: 10px 16px;
+}
+
+.list-header {
+ font-size: 50px;
+ font-weight: 800;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+.list-header--dark{
+    color:#da5026;
+    font-size: 50px;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ul-wrapper>li{
+    color: rgb(0, 0, 0);
+    font-size: 31px;
+    font-weight: bold;
+}
+.ul-wrapper--dark>li{
+    color: #da5026;
+    font-size: 31px;
+    font-weight: bold;
+}

@@ -1,0 +1,15 @@
+.App{
+  box-sizing: border-box;
+  background-image: url(../src/images/Light-Background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center -5%; 
+}
+.App--dark{
+  box-sizing: border-box;
+  background-image: url(../src/images/Dark-Background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center -5%; 
+}
+
